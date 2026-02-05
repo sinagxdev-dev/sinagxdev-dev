@@ -1,4 +1,4 @@
-Hi 👋 My name is root@sinag
+root@sinag
 ===========================
 
 Focused on the intersection of Python, Cybersecurity, and AI.
