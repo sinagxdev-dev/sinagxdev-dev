@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎮 TECH STACK 🎮
+# 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔𝚜
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## ▓▓▓ GITHUB STATS ▓▓▓
+## 𝚂𝚝𝚊𝚝𝚜
 
 ![](https://github-readme-stats.vercel.app/api?username=sinagxdev-dev&theme=apprentice&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sinagxdev-dev&theme=apprentice&hide_border=false)<br/>
